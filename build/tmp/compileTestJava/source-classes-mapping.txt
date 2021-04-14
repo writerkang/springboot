@@ -1,0 +1,2 @@
+com/writerkang/springboot/web/HelloControllerTest.java
+ com.writerkang.springboot.web.HelloControllerTest
